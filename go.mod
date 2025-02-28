@@ -1,6 +1,6 @@
 module github.com/imkebe/xk6-msgpack-ng
 
-go 1.24.0
+go 1.23.0
 
 //replace github.com/imkebe/xk6-msgpack-ng => .
 
